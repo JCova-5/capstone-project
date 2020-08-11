@@ -1,9 +1,12 @@
 # capstone-project
+
 Final project for General Assembly
 
 # PicSaver
+
 - Pic Saver is an app that will be similar to pinterest where you can create posts and 
-  like other posts and save posts to you profile where you can see them later on when you login to your account.
+  like other posts and save posts to your profile where you can see them later on when you login to your account. You can post with captions or without. 
+  Uploading via media files. 
   
   
 # MVP
@@ -19,6 +22,7 @@ Final project for General Assembly
 - Receive notifications when another use interacts with their post.
 
 # Time Chart 
+
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Components(Frontend) | H | 10hrs| ? hrs | ? hrs |
@@ -33,9 +37,18 @@ Final project for General Assembly
 
 
 # Additional Libraries
+
 - Axio
 - Bootstrap
 - React
+- Ruby Gems
+
+# Frameworks
+
+- React
+- Ruby on Rails
+
+
 
 # Code Snippet 
 ```
