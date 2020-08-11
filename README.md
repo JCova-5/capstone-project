@@ -19,11 +19,17 @@ Final project for General Assembly
 - Receive notifications when another use interacts with their post.
 
 # Time Chart 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
+| Components(Frontend) | H | 10hrs| ? hrs | ? hrs |
+| Controllers | H | 7 hrs | ? hrs | ? hrs |
+| Routes | H | 3hrs | ? hrs | ? hrs |
+| Deployment(Both) | H | 3 hrs | ? hrs | ? hrs |
+| Styling | M | ? 6 hrs | ? hrs | ? hrs |
+| Working with API in Frontend | H | 6 hrs | ? hrs | ? hrs |
+| Testing | H | 4 hrs | ? hrs | ? hrs |
+| Profile Verification | H | 5 hrs | ? hrs | ? hrs |
+| Total | H | 44 hrs| 5hrs | 5hrs |
 
 
 # Additional Libraries
@@ -31,3 +37,7 @@ Final project for General Assembly
 - Bootstrap
 - React
 
+# Code Snippet 
+```
+  Sample
+  ```
