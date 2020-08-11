@@ -37,7 +37,9 @@ Final project for General Assembly
 | Testing | H | 4 hrs | ? hrs | ? hrs |
 | Profile Verification | H | 5 hrs | ? hrs | ? hrs |
 | Nav Menu | H | 5 hrs | ? hrs | ? hrs |
-| Total | H | 51 hrs| 5hrs | 5hrs |
+| Responsive | H | 5 hrs | ? hrs | ? hrs |
+| Debugging | H | 6 hrs | ? hrs | ? hrs |
+| Total | H | 62 hrs| 5hrs | 5hrs |
 
 
 # Additional Libraries
