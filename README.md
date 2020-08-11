@@ -32,7 +32,7 @@ Final project for General Assembly
 | Controllers | H | 7 hrs | ? hrs | ? hrs |
 | Routes | H | 3hrs | ? hrs | ? hrs |
 | Deployment(Both) | H | 5 hrs | ? hrs | ? hrs |
-| Styling | M | ? 6 hrs | ? hrs | ? hrs |
+| Styling | M | 6 hrs | ? hrs | ? hrs |
 | Working with API in Frontend | H | 6 hrs | ? hrs | ? hrs |
 | Testing | H | 4 hrs | ? hrs | ? hrs |
 | Profile Verification | H | 5 hrs | ? hrs | ? hrs |
