@@ -9,7 +9,9 @@ Final project for General Assembly
   Uploading via media files. 
   
 # WireFrame
-- [Wireframe](https://www.figma.com/file/E4Q62yK0M4bD6A1sOWPeUT/Untitled?node-id=0%3A1)
+- [Wireframe - Desktop](https://www.figma.com/file/E4Q62yK0M4bD6A1sOWPeUT/Untitled?node-id=0%3A1)
+- [Wireframe - Tablet](https://www.figma.com/file/q3dfFMsRx5wq8gVjxL2kD1/Untitled?node-id=4%3A2)
+- [Wireframe - Mobile](https://www.figma.com/file/kb44nYiMRhyMzxyJl64pNl/Untitled?node-id=0%3A1)
   
   
 # MVP
