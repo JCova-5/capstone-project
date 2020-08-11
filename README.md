@@ -12,6 +12,10 @@ Final project for General Assembly
 - [Wireframe - Desktop](https://www.figma.com/file/E4Q62yK0M4bD6A1sOWPeUT/Untitled?node-id=0%3A1)
 - [Wireframe - Tablet](https://www.figma.com/file/q3dfFMsRx5wq8gVjxL2kD1/Untitled?node-id=4%3A2)
 - [Wireframe - Mobile](https://www.figma.com/file/kb44nYiMRhyMzxyJl64pNl/Untitled?node-id=0%3A1)
+
+# React Architecture
+- [React](https://www.figma.com/file/XUcK0yW86q3oFqo7vijcoH/Untitled?node-id=0%3A1)
+
   
   
 # MVP
