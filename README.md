@@ -14,6 +14,8 @@ Final project for General Assembly
   
 # MVP
 
+- Routes Complete
+- Controllers complete
 - Full Crud functionality which the frontend can create routes to do whatever they want with the data.  
 - All react components and backend will be 100% complete. 
 - Users will also be able upload posts.
