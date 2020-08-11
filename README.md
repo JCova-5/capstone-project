@@ -9,7 +9,7 @@ Final project for General Assembly
   Uploading via media files. 
   
 # WireFrame
-- 
+- [Wireframe](https://www.figma.com/file/E4Q62yK0M4bD6A1sOWPeUT/Untitled?node-id=0%3A1)
   
   
 # MVP
@@ -31,13 +31,13 @@ Final project for General Assembly
 | Components(Frontend) | H | 10hrs| ? hrs | ? hrs |
 | Controllers | H | 7 hrs | ? hrs | ? hrs |
 | Routes | H | 3hrs | ? hrs | ? hrs |
-| Deployment(Both) | H | 3 hrs | ? hrs | ? hrs |
+| Deployment(Both) | H | 5 hrs | ? hrs | ? hrs |
 | Styling | M | ? 6 hrs | ? hrs | ? hrs |
 | Working with API in Frontend | H | 6 hrs | ? hrs | ? hrs |
 | Testing | H | 4 hrs | ? hrs | ? hrs |
 | Profile Verification | H | 5 hrs | ? hrs | ? hrs |
 | Nav Menu | H | 5 hrs | ? hrs | ? hrs |
-| Total | H | 49 hrs| 5hrs | 5hrs |
+| Total | H | 51 hrs| 5hrs | 5hrs |
 
 
 # Additional Libraries
