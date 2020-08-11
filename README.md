@@ -8,6 +8,9 @@ Final project for General Assembly
   like other posts and save posts to your profile where you can see them later on when you login to your account. You can post with captions or without. 
   Uploading via media files. 
   
+# WireFrame
+- 
+  
   
 # MVP
 
@@ -21,7 +24,7 @@ Final project for General Assembly
 - Create group messages.
 - Receive notifications when another use interacts with their post.
 
-# Time Chart 
+# Time/Priority Chart 
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
@@ -33,7 +36,8 @@ Final project for General Assembly
 | Working with API in Frontend | H | 6 hrs | ? hrs | ? hrs |
 | Testing | H | 4 hrs | ? hrs | ? hrs |
 | Profile Verification | H | 5 hrs | ? hrs | ? hrs |
-| Total | H | 44 hrs| 5hrs | 5hrs |
+| Nav Menu | H | 5 hrs | ? hrs | ? hrs |
+| Total | H | 49 hrs| 5hrs | 5hrs |
 
 
 # Additional Libraries
