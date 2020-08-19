@@ -19,7 +19,9 @@ Final project for General Assembly
 # Backend Architecture
 - [Backend](https://www.figma.com/file/ZmdrxXfTlrngj5rrcDwzfI/Untitled?node-id=0%3A1)
   
-  
+# App Repos
+- [FrontEnd](https://github.com/JCova-5/capstone_frontend)
+- [BackEnd](https://github.com/JCova-5/capstone_backend)
 # MVP
 
 - Routes Complete
@@ -38,18 +40,18 @@ Final project for General Assembly
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Components(Frontend) | H | 10hrs| ? hrs | ? hrs |
-| Controllers | H | 7 hrs | ? hrs | ? hrs |
-| Routes | H | 3hrs | ? hrs | ? hrs |
-| Deployment(Both) | H | 5 hrs | ? hrs | ? hrs |
-| Styling | M | 6 hrs | ? hrs | ? hrs |
-| Working with API in Frontend | H | 6 hrs | ? hrs | ? hrs |
-| Testing | H | 4 hrs | ? hrs | ? hrs |
-| Profile Verification | H | 5 hrs | ? hrs | ? hrs |
-| Nav Menu | H | 5 hrs | ? hrs | ? hrs |
-| Responsive | H | 5 hrs | ? hrs | ? hrs |
-| Debugging | H | 6 hrs | ? hrs | ? hrs |
-| Total | H | 62 hrs| 5hrs | 5hrs |
+| Components(Frontend) | H | 10hrs| 15 hrs | ? hrs |
+| Controllers | H | 7 hrs | 7 hrs | ? hrs |
+| Routes | H | 3hrs | 3 hrs | ? hrs |
+| Deployment(Both) | H | 5 hrs | 2 hrs | ? hrs |
+| Styling | M | 6 hrs | 7 hrs | ? hrs |
+| Working with API in Frontend | H | 6 hrs | 7 hrs | ? hrs |
+| Testing | H | 4 hrs | 4 hrs | ? hrs |
+| Profile Verification | H | 5 hrs | 7 hrs | ? hrs |
+| Nav Menu | H | 5 hrs | 3 hrs | ? hrs |
+| Responsive | H | 5 hrs | 5 hrs | ? hrs |
+| Debugging | H | 6 hrs | 8 hrs | ? hrs |
+| Total | H | 62 hrs| 68 hrs | 68 hrs |
 
 
 # Additional Libraries
